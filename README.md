@@ -1,4 +1,4 @@
-# Kotlin Chat App Firebase 2019
+# Kotlin Chat App Firebase 2021 (Update from 2019)
 
 I have deleted google-services.json. Add yours
 <br><b> Change Authorization:key with your key from firebase project</b>
@@ -11,5 +11,3 @@ I have deleted google-services.json. Add yours
 <br>2 - Firebase Panel
 <br>1 - Create Firebase Project (https://console.firebase.google.com/);
 <br>2 - import the file google-service.json into your project
-
-Thanks @KODDevYouTube
